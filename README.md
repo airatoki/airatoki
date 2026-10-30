@@ -70,7 +70,7 @@ class Airatoki:
   <img src="https://media.tenor.com/QhXoO-qE1PMAAAAd/mahiru-shiina.gif" width="500" style="border-radius: 12px; margin: 15px 0;" alt="mahiru aesthetic"/>
 </div>
 
-- **Currently watching/reading:** basically anything with Mahiru Shiina or Ayase Saki.
+- **Currently watching/reading:** basically anything with Monica Everett or Homura Akemi.
 - **Lore diving:** deeply invested in *Project Moon* (Lobotomy Corp / Limbus Company). 
 - **Soundtrack:** J-Pop on loop (Mrs. GREEN APPLE, nayuta) and Hoshino Ichika covers while the compiler screams at me.
 - subs > dubs. always.
